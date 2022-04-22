@@ -6,3 +6,8 @@ technique
 * JUnit Test source code
 * Continuous Integration (CI) configuration
 * ...
+
+### Screen shot:
+![JUnit-TDD](https://github.com/Kawoasa/math-util/blob/main/images/math-util-intro.png)
+
+© 2022 Kawoasa | fb/nguyenthik.quynhanh/
